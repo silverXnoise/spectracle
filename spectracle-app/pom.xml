@@ -268,12 +268,12 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>16</version>
+            <version>17</version>
         </dependency>
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-swing</artifactId>
-            <version>16</version>
+            <version>17</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>

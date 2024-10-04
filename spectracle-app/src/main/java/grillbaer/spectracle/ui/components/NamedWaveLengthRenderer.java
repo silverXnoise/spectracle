@@ -12,6 +12,7 @@ import static grillbaer.spectracle.spectrum.NamedWaveLength.Component.*;
 @AllArgsConstructor
 public class NamedWaveLengthRenderer extends DefaultListCellRenderer {
 
+    @SuppressWarnings("unused")
     private boolean withName;
 
     @Override

@@ -21,6 +21,7 @@ import java.util.stream.Stream;
 /**
  * Application entry point.
  */
+@SuppressWarnings("unused")
 public class Main {
     private final static Logger LOG = LoggerFactory.getLogger(Main.class);
 
