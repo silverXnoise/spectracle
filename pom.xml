@@ -12,6 +12,7 @@
     <modules>
         <module>opencv-windows-amd64</module>
         <module>opencv-linux-amd64</module>
+        <module>opencv-osx-amd64</module>
         <module>spectracle-app</module>
     </modules>
 
