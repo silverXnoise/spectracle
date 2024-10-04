@@ -202,13 +202,9 @@
                                 </goals>
                                 <configuration>
                                     <icon>src/main/resources/icons/icon-128.png</icon>
-                                    <type>DEB</type>
-                                    <linuxAppCategory>Science</linuxAppCategory>
-                                    <linuxMenuGroup>Science</linuxMenuGroup>
-                                    <installDir>/usr</installDir>
-                                    <linuxShortcut>true</linuxShortcut>
+                                    <type>PKG</type>
                                     <additionalOptions>
-                                        <option>--linux-package-deps</option>
+                                        <option>--osx-package-deps</option>
                                         <option>ttf-ancient-fonts</option>
                                     </additionalOptions>
                                 </configuration>
